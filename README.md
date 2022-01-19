@@ -1,5 +1,4 @@
-# Calls Music — Telegram bot + userbot for streaming audio in group calls
-
+#  SR MUZIK BOT telegramda sesli sohbet müzik botudur
 ## ✍🏻 Requirements
 
 - FFmpeg
@@ -38,13 +37,13 @@
 
 | Command | Description                                          |
 | ------- | ---------------------------------------------------- |
-| /play   | play the replied audio file or YouTube video         |
-| /pause  | pause the audio stream                               |
-| /resume | resume the audio stream                              |
-| /skip   | skip the current audio stream                        |
-| /mute   | mute the userbot                                     |
-| /unmute | unmute the userbot                                   |
-| /stop   | clear the queue and remove the userbot from the call |
+| /oynat  | yanıtlanan ses dosyasını veya YouTube videosunu oynat |
+| /durdur | ses akışını duraklat |
+| /devam  | ses akışını devam ettir |
+| /ileri  | geçerli ses akışını atla |
+| /sus    | userbot'u sessize al |
+| /sesac  | userbot'un sesini aç |
+| /bitir  | kuyruğu temizleyin ve userbot'u aramadan çıkarın |
 
 ## 📄 License
 
