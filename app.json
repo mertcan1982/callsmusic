@@ -1,6 +1,6 @@
 {
   "name": "Calls Music",
-  "description": "Telegram bot + userbot for streaming audio in group calls.",
+  "description": "Grup aramalarında ses akışı için Telegram bot + userbot.",
   "keywords": ["telegram", "python"],
   "repository": "https://github.com/callsmusic/callsmusic",
   "env": {
