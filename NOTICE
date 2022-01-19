@@ -1,15 +1,14 @@
-Calls Music - Telegram bot for streaming audio in group calls
-Copyright (C) 2021  Roj Serbest
+SR MUZIK BOT - Grup çağrılarında ses akışı için Telegram botu
+Telif Hakkı (C) 2021 Roj Serbest
 
-Calls Music is free software: you can redistribute it and/or modify
-it under the terms of the GNU Affero General Public License as
-published by the Free Software Foundation, either version 3 of the
-License, or (at your option) any later version.
+Calls Music ücretsiz bir yazılımdır: yeniden dağıtabilir ve/veya değiştirebilirsiniz
+olarak GNU Affero Genel Kamu Lisansı koşulları altında
+Özgür Yazılım Vakfı tarafından yayınlanan,
+Lisans veya (seçiminize bağlı olarak) herhangi bir sonraki sürüm.
 
-Calls Music is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU Affero General Public License for more details.
+Çağrılar Müzik, faydalı olması ümidiyle dağıtılır,
+ancak HİÇBİR GARANTİ OLMADAN; zımni garanti bile olmadan
+SATILABİLİRLİK veya BELİRLİ BİR AMACA UYGUNLUK. Bkz.
+Daha fazla ayrıntı için GNU Affero Genel Kamu Lisansı.
 
-You should have received a copy of the GNU Affero General Public License
-along with Calls Music.  If not, see <https://www.gnu.org/licenses/>.
+
